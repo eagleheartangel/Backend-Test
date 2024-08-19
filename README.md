@@ -1,4 +1,4 @@
-# Nombre del Proyecto Angular
+# Nombre del Proyecto NodeJS
 
 ## Descripción
 
